@@ -1,6 +1,6 @@
-- 👋 Hi, I’m suhel
+- 👋 Hi, I’m Suhel
 - 👀 I’m interested in MERN
-- 🌱 I’m currently learning Reactjs
+- 🌱 I’m currently working as a React Native Developer
 - 💞️ I’m looking to collaborate on MERN
 - 📫 How to reach me itssuhelcontact@gmail.com
 
